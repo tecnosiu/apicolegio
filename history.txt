@@ -1,0 +1,19 @@
+    3  git config --global user.name "Siulluz Reverol"
+    4  git config --global user.email tecnosiu@gmail.com
+    5  git config --list
+   14  git status
+   15  git init
+   16  git add.
+   17  git add
+   18  git add .
+   19  git status
+   20  git commit -m "Creando Repositorio Apicolegio"
+   21  git remote add origin https://github.com/tecnosiu/apicolegio
+   22  git status
+   23  git push -u origin master
+   24  git log
+   25  git log history.txt
+   26   git log --patch historialgit.txt
+   27   git log 
+   29  history | grep git
+   30  history | grep git > history.txt
